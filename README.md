@@ -1,1 +1,1 @@
-# cybsecurity-cs
+# Computer Science Resources
