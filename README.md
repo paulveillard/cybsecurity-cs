@@ -190,6 +190,8 @@
 ## OCaml
  - [OCaml Tutorials](http://ocaml.org/learn/tutorials/)
 
+**[`^        back to top        ^`](#)**
+
 ## Clojure
  - [Try Clojure](http://tryclj.com/)
  - [Clojure for the Brave and True](http://www.braveclojure.com/)
@@ -197,6 +199,8 @@
  - [Clojure Koans](http://clojurekoans.com/)
  - [4Clojure](http://www.4clojure.com/)
  - [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)
+
+**[`^        back to top        ^`](#)**
 
 ## F&#35;
  - [Learning F#](http://fsharp.org/about/learning.html)
@@ -280,6 +284,8 @@
  - [What Every Programmer Should Know About Compiler Optimizations](https://msdn.microsoft.com/en-us/magazine/dn904673.aspx)
  - [Compiler Explorer](http://gcc.godbolt.org/)
  - [Compiler Design Tutorial](http://www.tutorialspoint.com/compiler_design/index.htm)
+
+**[`^        back to top        ^`](#)**
 
 ## Machine Learning
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -444,6 +450,8 @@
    - [DFRWS 2014 Forensics Rodeo](http://www.cs.uno.edu/~golden/dfrws-2014-rodeo.html)
    - [Linux LEO Supplemental Files](http://linuxleo.com/)
 
+**[`^        back to top        ^`](#)**
+
 ## Malware Analysis
    - [Open Malware / Offensive Computing](http://openmalware.org/)
    - [Contagio](http://contagiodump.blogspot.com/)
@@ -467,6 +475,8 @@
    - [Android Sandbox](http://androidsandbox.net/samples/)
    - [maltrieve](http://maltrieve.org/)
    - [HoneyDrive](http://bruteforce.gr/honeydrive)
+
+**[`^        back to top        ^`](#)**
 
 ## Miscellaneous
  - Git
